@@ -24,3 +24,18 @@ As for Frontend Development, I became interested in it while creating my website
 - Moscow State University (2020 - nowadays)
 - HTML Academy
 - Vladilen Minin's courses
+
+##### Skills: 
+- HTML, CSS, SASS/SCSS, Less
+- JavaScript
+- Python Basics
+- Git, GitHub
+- WebStorm, PyCharm
+- Adoba Photoshop, Figma
+- Angular (in process)
+
+##### Languages:
+- English - Advanced
+- Russian - Native
+- Hindi - Intermediate
+- Spanish - Intermediate
