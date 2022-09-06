@@ -39,3 +39,16 @@ As for Frontend Development, I became interested in it while creating my website
 - Russian - Native
 - Hindi - Intermediate
 - Spanish - Intermediate
+
+##### Code example: 
+
+```
+function activeButton (element) {
+    benefitCardBtns.forEach((item) => {
+        if (item.classList.contains('active-button')) {
+            item.classList.remove('active-button')
+        }
+    })
+    element.classList.add('active-button')
+}
+```
